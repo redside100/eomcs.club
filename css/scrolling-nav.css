@@ -20,7 +20,7 @@ body{
 div{
 	position: relative;
 }
-.bf:hover, .bf:focus, .bf:active {
+.bf:hover {
   background-color: #2098D1;
   color: white;
 }
