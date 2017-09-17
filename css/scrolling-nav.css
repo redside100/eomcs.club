@@ -27,43 +27,43 @@ div{
 .bg-dot-0-0{
   opacity: 0.5;
   position: absolute;
-  top: 70px;
-  left: 80px;
+  top: 21%;
+  left: 4%;
   z-index: 1;
 }
 .bg-dot-0-1{
   opacity: 0.5;
   position: absolute;
-  top: 260px;
-  left: 1500px;
+  top: 72%;
+  left: 78.8%;
   z-index: 1;
 }
 .bg-square-0-0{
   opacity: 0.5;
   position: absolute;
-  top: 225px;
-  left: 235px;
+  top: 67%;
+  left: 12.34%;
   z-index: 1;
 }
 .bg-square-0-1{
   opacity: 0.5;
   position: absolute;
-  top: 205px;
-  left: 1735px;
+  top: 59%;
+  left: 91.1%;
   z-index: 1;
 }
 .bg-cross-0-0{
   opacity: 0.5;
   position: absolute;
-  top: 120px;
-  left: 400px;
+  top: 31.7%;
+  left: 21%;
   z-index: 1;
 }
 .bg-triangle-0-0{
   opacity: 0.5;
   position: absolute;
-  top: 100px;
-  left: 1605px;
+  top: 26.5%;
+  left: 84.3%;
   z-index: 1;
 }
 img{
