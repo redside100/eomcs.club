@@ -20,6 +20,27 @@ body{
 div{
 	position: relative;
 }
+h2{
+	text-align: center;
+	padding: 5px;
+}
+.shape{
+	max-width: 8.5vw;
+}
+.red-resource{
+	max-width: 7vw;
+	position: absolute;
+	top: 55%;
+	left: 41.7%;
+	z-index: 1;
+}
+.green-resource{
+    max-width: 7vw;
+	position: absolute;
+	top: 55%;
+	left: 51.7%;
+	z-index: 1;
+}
 .bf:hover {
   background-color: #2098D1;
   color: white;
