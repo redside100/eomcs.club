@@ -28,17 +28,31 @@ h2{
 	max-width: 8.5vw;
 }
 .red-resource{
-	max-width: 7vw;
+	max-width: 8vw;
 	position: absolute;
-	top: 55%;
-	left: 41.7%;
+	top: 56%;
+	left: 38.7%;
+	z-index: 1;
+}
+.red-resource-description{
+	font-size: 1vw;
+	position: absolute;
+	top: 45%;
+	left: 36.3%;
 	z-index: 1;
 }
 .green-resource{
-    max-width: 7vw;
+    max-width: 8vw;
 	position: absolute;
-	top: 55%;
-	left: 51.7%;
+	top: 56%;
+	left: 54.7%;
+	z-index: 1;
+}
+.green-resource-description{
+	font-size: 1vw;
+	position: absolute;
+	top: 45%;
+	left: 51.6%;
 	z-index: 1;
 }
 .bf:hover {
@@ -206,5 +220,5 @@ img{
 }
 
 section {
-  padding: 150px 0;
+  padding: 120px 0;
 }
