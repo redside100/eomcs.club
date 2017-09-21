@@ -15,6 +15,12 @@
 
     <!-- Custom styles for this template -->
     <link href="css/scrolling-nav.css" rel="stylesheet">
+	
+	<!-- SweetAlert -->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	
+	<!-- App JS -->
+    <script src="js/app.js"></script>
 
   </head>
 
@@ -47,7 +53,7 @@
       <div class="container text-center">
 		<img src="img/logo.png" class="resize floating" style="position: relative; z-index: 2"></img>
       </div>
-	  	<img src="img/dot.png" class="shape bg-dot-0-0 floating"></img>
+	  	<img src="img/dot.png" class="shape bg-dot-0-0 floating" onclick=askPass()></img>
 		<img src="img/dot.png" class="shape bg-dot-0-1 floating-inverse"></img>
 		<img src="img/square.png" class="shape bg-square-0-0 floating-inverse"></img>
 		<img src="img/square.png" class="shape bg-square-0-1 floating"></img>
